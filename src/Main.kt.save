@@ -1,0 +1,3 @@
+nano src/Main.ktfun main() {
+    println("Hello, Kotlin in  Ubuntu..!")
+}
